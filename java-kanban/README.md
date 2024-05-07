@@ -1,2 +1,2 @@
-# java-kanban
-Repository for homework project.
+# Доска kanban
+Данный проект представляет собой функционал доски канбан для управления задачами.
